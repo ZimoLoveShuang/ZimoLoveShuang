@@ -33,7 +33,7 @@ urllib.request('https://blog.zimo.wiki/atom.xml', function (err, data, res) {
           'address': '中国，四川，成都',
           'school': '成都信息工程大学'
       },
-      date: new Date().toUTCString(),
+      date: new Date().toLocaleString('chinese', { hour12: false }),
       articles: arts
     };
 
