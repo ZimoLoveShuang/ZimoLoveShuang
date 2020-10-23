@@ -38,29 +38,29 @@
 </ul>
 
 <h3>My Most Used Languages</h3>
-<div align="center" style="margin: 0 auto;text-align: center;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZimoLoveShuang">
 </div>
 
 <h3>My GitHub Statistics</h3>
-<div align="center" style="margin: 0 auto;text-align: center;">
+<div>
   <a href="https://github.com/ZimoLoveShuang">
       <img src="https://github-readme-stats.vercel.app/api?username=ZimoLoveShuang&show_icons=true&count_private=true"/>
   </a>
 </div>
 
 <h3>My IDEs</h3>
-<div align="center" style="margin: 0 auto;text-align: center;">
+<div>
   <img style="border: 1px solid #d1d5da;padding: 10px;border-radius: 6px;" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/eabeda1f-368a-4b4f-b2f8-c3b2684f113b.svg">
 </div>
 
 <h3>My Coding Activitys</h3>
-<div align="center" style="margin: 0 auto;text-align: center;">
+<div>
   <img style="border: 1px solid #d1d5da;padding: 10px;border-radius: 6px;" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/ab5769ef-e5b8-4312-ad83-795a1117491b.png">
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Fri, 23 Oct 2020 05:18:38 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Fri, 23 Oct 2020 08:24:50 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/ZimoLoveShuang/ZimoLoveShuang?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/ZimoLoveShuang/ZimoLoveShuang?style=flat-square&labelColor=343b41"/>
