@@ -7,7 +7,9 @@ const MUSTACHE_MAIN_DIR = './main.mustache';
 const MAX = 10;
 
 
-urllib.request('https://blog.zimo.wiki/atom.xml', function (err, data, res) {
+urllib.request('https://blog.zimo.wiki/atom.xml',{
+  timeout: 30 * 1000
+}, function (err, data, res) {
   if (err) {
     console.log(err);
     throw err;
