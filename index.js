@@ -45,6 +45,7 @@ urllib.request('https://blog.zimo.wiki/atom.xml', {
 
 
 function generateReadMe(DATA) {
+    console.log(DATA)
     fs.readFile(MUSTACHE_MAIN_DIR, (err, data) => {
         if (err) {
             console.log(err);
