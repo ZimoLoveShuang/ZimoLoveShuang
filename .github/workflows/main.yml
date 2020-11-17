@@ -11,23 +11,17 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: checkout
+      - name: 1. checkout
         uses: actions/checkout@v1
-      - name: setup node
+      - name: 2. setup node
         uses: actions/setup-node@v1
         with:
           node-version: '13.x'
-      - name: cache
-        uses: actions/cache@v1
-        with:
-          path: node_modules
-          key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
-      - name: Install dependencies
+      - name: 3. install dependencies
         run: npm install
-      - name: Generate README file
+      - name: 4. generate README file
         run: node index.js
-      - name: Push new README.md
+      - name: 5. push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          TZ: Asia/Shanghai
