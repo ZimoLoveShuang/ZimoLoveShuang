@@ -6,34 +6,34 @@
 <h3>My latest articles</h3>
 <ul>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;3872232b&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;17</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;135f70e8&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;27</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;d67c4207&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;15</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;6458407e&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;26</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;a17b7291&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;14</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;fd5111c4&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;25</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;3f1fe732&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;13</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;8a562152&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;24</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;4818d7a4&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;12</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;1432b4f1&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;23</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;d111861e&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;11</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;63358467&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;22</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;a616b688&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;10</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;fa3cd5dd&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;21</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;ab501781&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;9</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;8d3be54b&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;20</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;4ce83a86&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;7</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;dfca0e2c&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;19</b></a>
     </li>
     <li>
-      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;3bef0a10&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;6</b></a>
+      <a href="https:&#x2F;&#x2F;blog.zimo.wiki&#x2F;posts&#x2F;a8cd3eba&#x2F;"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" />力扣每日一题 2020&#x2F;11&#x2F;18</b></a>
     </li>
 </ul>
 
@@ -46,12 +46,12 @@
 
 <h3>My Most Used Languages</h3>
 <div>
-  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/a7fbbb20-98df-4158-8cfb-fa5d481fbcbb.png" /></a>
+  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/6fbbc3ca-b27f-499b-8d6a-1054872ead0e.svg" /></a>
 </div>
 
 <h3>My IDEs</h3>
 <div>
-  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/3d4d4ca9-10f8-4ef9-98f9-bc46b1fb9784.png" />  
+  <img width="495" src="https://wakatime.com/share/@d36308e7-1ed7-4551-8f2e-198b766d76e5/4667a5ad-1965-4297-b38b-634fa0c0f8ad.svg" />  
 </div>
 
 <h3>My Coding Activitys</h3>
@@ -60,7 +60,7 @@
 </div>
 
 ------------
-<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Tue, 17 Nov 2020 11:33:32 GMT</p>
+<p align="center">This <i>README</i> file is generated <b>every hour</b>!<br />Last refresh:Fri, 27 Nov 2020 07:35:07 GMT</p>
 <p align="center">
   <img alt="Stars" src="https://img.shields.io/github/stars/ZimoLoveShuang/ZimoLoveShuang?style=flat-square&labelColor=343b41"/>
   <img alt="Forks" src="https://img.shields.io/github/forks/ZimoLoveShuang/ZimoLoveShuang?style=flat-square&labelColor=343b41"/>
