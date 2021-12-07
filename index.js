@@ -15,7 +15,7 @@ let DATA = {
     date: new Date().toUTCString()
 };
 
-urllib.request('https://blog.zimo.wiki/atom.xml', {
+urllib.request('https://raw.githubusercontent.com/ZimoLoveShuang/ZimoLoveShuang.github.io/main/atom.xml', {
     timeout: 30 * 1000
 }, function (err, data, res) {
     if (err) {
