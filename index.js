@@ -8,41 +8,12 @@ const MAX = 10;
 
 let DATA = {
     user: {
-        'name': '子墨',
-        'address': '中国，四川，成都',
-        'school': '成都信息工程大学'
+        'name': '子墨'
     },
     date: new Date().toUTCString()
 };
 
-urllib.request('https://raw.githubusercontent.com/ZimoLoveShuang/ZimoLoveShuang.github.io/main/atom.xml', {
-    timeout: 30 * 1000
-}, function (err, data, res) {
-    if (err) {
-        console.log(err);
-        throw err;
-    }
-
-    xmlreader.read(data.toString(), function (errors, response) {
-        if (errors) {
-            console.log(errors);
-            throw errors;
-        }
-
-        let arts = []
-        for (var i = 0; i < MAX; i++) {
-            var article = {}
-            article.title = response.feed.entry.at(i).title.text();
-            article.url = response.feed.entry.at(i).link.attributes().href;
-            arts.push(article);
-        }
-
-        DATA.articles = arts
-
-        generateReadMe(DATA)
-    });
-});
-
+generateReadMe(DATA)
 
 function generateReadMe(DATA) {
     console.log(DATA)
